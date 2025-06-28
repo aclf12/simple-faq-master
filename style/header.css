@@ -20,7 +20,7 @@
 }
 @media screen and (min-width: 1350px) {
     .header__container {
-        padding: 2%;
+        padding: 4%;
         margin-bottom: 1.5em;
     }
     .title {
